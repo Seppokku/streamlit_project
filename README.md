@@ -1,1 +1,1 @@
-# streamlit_project
+# st_project
